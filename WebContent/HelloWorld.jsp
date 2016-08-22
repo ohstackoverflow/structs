@@ -9,6 +9,6 @@
 <title>Hello</title>
 </head>
 <body>
-Hello World, <s:property value="name"/>
+Hello World, this is Structs2..<s:property value="name"/>
 </body>
 </html>
